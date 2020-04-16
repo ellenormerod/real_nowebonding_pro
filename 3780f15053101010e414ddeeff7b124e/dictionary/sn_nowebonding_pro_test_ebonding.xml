@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Test EBonding" max_length="40" name="sn_nowebonding_pro_test_ebonding" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Test String" max_length="40" name="test_string" type="string"/>
+    </element>
+</database>
